@@ -3,4 +3,6 @@ NOTES.md
 TODO.md
 _coverage/
 config/environments/*.json
-node_modules/
+node_modules/x
+lib/test.js
+.idea
